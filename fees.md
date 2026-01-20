@@ -28,12 +28,14 @@ Until now, delegates from Global South institutions have paid the same registrat
 
 Scholars from the Global South can attend ISHS 2026 both in-person and online. In the latter case, if it is not possible to attend the event in-person, the delegate may choose to register for the Pre-Event Webinar, which will take place only online, as part of the conference's parallel program.
 
+Registration can be done in two distinct tiers. The first is early-bird registration, between January 19th and May 30th. The second is late registration, between May 31st and June 30th.
+
 Please also note that Brazilian law prohibits charging registration fees for events held within the country in foreign currency. For this reason, the prices shown are in Brazilian Reais (BRL) and will be automatically converted to US Dollars (USD) or the local currency by your credit card company.
 
 In view of these considerations, the fees charged to participate in the ISHS 2026 conference will be as follows:
 
 
-| Category                        | Early-Bird Registration (BRL) | Late Registration (BRL) |
+| Category                        |   Early-Bird Registration (BRL)   |   Late Registration (BRL)   |
 | ------------------------------- | --------- | --------- |
 | ISHS Member                     | **1,100 (approx. USD200)**   | **1,375 (approx. USD250)**   |
 | ISHS Non-Member                 | **1,375 (approx. USD250)**   | **1,650 (approx. USD300)**   |
