@@ -18,7 +18,7 @@ hero:
   subtitle: Where the <a href="./zueira">zueira</a> never ends.
   button:
     label: Register Now
-    url: "register"
+    url: "https://www.ishs2026.eventos.dype.com.br"
     class: btn btn-lg btn-primary rounded-pill
   image: "./assets/img/illustrations/ishs_logo.webp"
   image2x: ""
@@ -50,7 +50,7 @@ strategy:
   text2: In the year marking 50 years since the first interdisciplinary humor studies conference in 1976, the event will be held in Brazil for the first time. Don’t miss it!
   button:
     label: Register Now
-    url: "register"
+    url: "https://www.ishs2026.eventos.dype.com.br"
     class: btn btn-primary rounded-pill
   steps:
     - number: "01"
@@ -132,7 +132,7 @@ footer_cta:
   title: Join our community by registering for the conference, submitting your work, and following our sessions and activities.
   button:
     label: Register Now
-    url: "register"
+    url: "https://www.ishs2026.eventos.dype.com.br"
     class: btn btn-primary rounded-pill
     
 ---
@@ -152,7 +152,7 @@ footer_cta:
     otherBtn=true
     otherBtnClassList="btn btn-sm btn-primary rounded-pill"
     otherBtnText="Register Now"
-    otherBtnLink="register/"     
+    otherBtnLink="https://www.ishs2026.eventos.dype.com.br"     
 %}
 </header>
 <!-- /header -->
