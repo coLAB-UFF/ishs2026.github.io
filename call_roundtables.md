@@ -21,7 +21,11 @@ The roundtables can be proposed both by individuals and by the local organizing 
 
 Roundtables may have one or two main proponents, and are freely organized. They also may include external debaters or the proponents themselves as debaters and mediators. Each roundtable will last 90 minutes per session, should have between three and five presenters and allow at least 15 minutes for presentation and at least 15 minutes for Q&A. Roundtable proponents are responsible for keeping track of the time during the presentations and for moderating the discussion. 
 
-Each proponent is also responsible for gathering all the necessary information for the submission. Individuals may submit the panel proposal through a form provided by the conference's website. In case of any doubt, please write to the conference convenors at humorstudies@midia.uff.br
+Each proponent is also responsible for gathering all the necessary information for the submission. To submit your rountable, please click on register now at the bottom of this page, and submit your proposal. In case of any doubt, please write to the conference convenors at humorstudies@midia.uff.br
+
+Please submit your proposal by February 27, 2026, using the button below.
+
+### Format
 
 The proposal must include:
 
@@ -31,4 +35,11 @@ The proposal must include:
 
 Both the proposers and all presenters must be registered beforehand, and, if the roundtable is approved, everyone must have paid the registration fee for the conference. Authors and proponents of roundtables are also allowed to propose panels and submit individual papers, if they so wish.
 
-Please submit your proposal by February 27, 2026, using the button below.
+### Mode of Presentation
+
+No remote presentations will be allowed for pre-organized roundtables.
+
+### Languages
+
+Submissions in this tab must be in English. To ensure effective discussion during the roundtables, no bilingual roundtables will be allowed.
+
