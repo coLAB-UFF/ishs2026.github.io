@@ -14,7 +14,7 @@ cta:
   enabled: false
   title: Join a vibrant community of humor researchers.
   button_text: Register Now
-  button_url: "register"
+  button_url: "https://www.ishs2026.eventos.dype.com.br/"
  
 # Default Footer (4-column)
 column_2:
@@ -26,7 +26,7 @@ column_3:
   title: Learn More
   links:
     - title: Register Now
-      url: /register
+      url: https://www.ishs2026.eventos.dype.com.br/
     - title: Key Dates
       url: /keydates
     - title: Call for Panels
