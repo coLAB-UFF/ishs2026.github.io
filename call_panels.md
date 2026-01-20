@@ -21,7 +21,11 @@ The abstracts submitted to the conference are assembled into panels, bringing to
 
 Panel proponents receive and analyze paper submissions to their panels autonomously and independently. Panels may have one or two main proponents, and they are freely organized to discuss the papers. They also may include external debaters or the proponents themselves as debaters and mediators. Each panel will last 90 minutes per session, should have between three and five papers and allow at least 15 minutes for presentation and at least five minutes for discussion of each paper. Panel proponents are responsible for keeping track of the time during the presentations and for moderating the discussion. 
 
-Each proponent is also responsible for publicizing the call for papers for their panel, and by gathering all the necessary information for the submission. Upon request, the conference organizers can help spread the word about each call for panels in the conference's website and social media. Individuals may submit the panel proposal through a form provided by the conference's website. In case of any doubt, please write to the conference convenors at humorstudies@midia.uff.br
+Each proponent is also responsible for publicizing the call for papers for their panel, and by gathering all the necessary information for the submission. Upon request, the conference organizers can help spread the word about each call for panels in the conference's website and social media. To submit your panel proposal, please click on register now at the bottom of this page, and submit your related papers. In case of any doubt, please write to the conference convenors at humorstudies@midia.uff.br
+
+Please submit your proposal by February 27, 2026, using the button below.
+
+### Manuscript Format
 
 The proposal must include:
 
@@ -35,4 +39,16 @@ Both the proposers and all presenters must be registered beforehand, and, if the
 
 Members of the Special Interest Groups are specially welcomed to propose panels, organizing the discussions a few months before the conference.
 
-Please submit your proposal by February 27, 2026, using the button below.
+### Mode of Presentation
+
+No remote presentations will be allowed for pre-organized panels.
+
+### Languages
+
+Submissions in this tab must consist of papers in English. To ensure effective discussion during the panels, no bilingual panels will be allowed.
+
+Also, the conference will not feature pre-organized panels in Portuguese, with the exception of the ones formed by the organizing committee with individual papers submitted in Portuguese (please check the tab “Call for panels” for more info about it).
+
+### Individual Papers
+
+If you are submitting a pre-organized panel, please note that there is no need to submit the individual papers beforehand. You only need to list them during the registration of your panel.
