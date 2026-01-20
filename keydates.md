@@ -19,7 +19,7 @@ Below is the conferences's deadline schedule.
 | Description | Deadline |
 | --- | --- |
 | Early Bird Registration | January 19 to May 30 |
-| Late Registration | June 1st to June 30 |
+| Late Registration | May 31st to June 30 |
 
 <sub>* Cancellations until May 30 are subject to a fee of 50%.</sub>
 
